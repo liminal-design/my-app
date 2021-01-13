@@ -9,7 +9,7 @@ function IndexPage() {
   return (
     <Layout>
       <SEO title="Home" />
-      <h1>My first React website</h1>
+      <h1>My first website</h1>
       <p>Welcome to your new Gatsby site.</p>
       <p>Now go build something great.</p>
       <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
